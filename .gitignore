@@ -1,8 +1,13 @@
-01 Function Pointers/01functionPointer.exe
-01 Function Pointers/02functionPointerArray.exe
-01 Function Pointers/03voidPointer.exe
-01 Function Pointers/04functionPointerArgument.exe
-02 Structures and Unions/01Structures.exe
-02 Structures and Unions/02Typedef.exe
-02 Structures and Unions/03Unions.exe
-02 Structures and Unions/04StructuresWithUnions.exe
+Function Pointers/01functionPointer.exe
+Function Pointers/02functionPointerArray.exe
+Function Pointers/03voidPointer.exe
+Function Pointers/04functionPointerArgument.exe
+Structures and Unions/01Structures.exe
+Structures and Unions/02Typedef.exe
+Structures and Unions/03Unions.exe
+Structures and Unions/04StructuresWithUnions.exe
+Memory Management/01SizeOf.exe
+Memory Management/02Malloc.exe
+Memory Management/03Calloc.exe
+Memory Management/04Realloc.exe
+Preprocessor Directives/01Define.exe

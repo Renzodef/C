@@ -11,3 +11,7 @@ Memory Management/02Malloc.exe
 Memory Management/03Calloc.exe
 Memory Management/04Realloc.exe
 Preprocessor Directives/01Define.exe
+Preprocessor Directives/02PredefinedMacros.exe
+Preprocessor Directives/03ConditionalDirectives.exe
+Preprocessor Directives/04#Operator.exe
+Preprocessor Directives/05##Operator.exe
